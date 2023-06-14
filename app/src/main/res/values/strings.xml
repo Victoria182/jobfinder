@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">JobFinder</string>
+    <string name="app_logo">Job finder</string>
+    <string name="login_button_caption">Login</string>
+    <string name="register_button_caption">Register</string>
+    <string name="salary_caption">Salary:</string>
+    <string name="login_caption">Login</string>
+    <string name="password_caption">Password</string>
+    <string name="repeat_password_caption">Re-type password</string>
+    <string name="delete_button_caption">Delete</string>
+    <string name="job_title_caption">Title</string>
+    <string name="job_description_caption">Description</string>
+    <string name="job_salary_caption">Salary</string>
+    <string name="confirm_button_caption">Confirm</string>
+    <string name="logout_button_caption">Log out</string>
+</resources>
